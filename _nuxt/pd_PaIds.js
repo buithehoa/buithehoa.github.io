@@ -1,1 +1,0 @@
-import{a as e,c as t,i as n,t as r}from"#entry";var i={};function a(r,i){return t(),e(`main`,null,[...i[0]||=[n(`h1`,null,`hoa.is-a.dev`,-1)]])}var o=r(i,[[`render`,a]]);export{o as default};
